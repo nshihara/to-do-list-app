@@ -1,0 +1,17 @@
+
+@media (max-width: 960px) {
+  .App{
+    padding: 1em;
+  }
+}
+
+
+@media (min-width:961px) { 
+  /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+  .App{
+    padding: 3em;
+  } 
+}
+.mainBodySegment {
+  margin-top: 10%; 
+}
